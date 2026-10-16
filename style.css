@@ -240,3 +240,6 @@ h4 { margin: 0 0 7px; font-size: 17px; line-height: 1.625; letter-spacing: -.15p
   .closing-button { width: 100%; justify-content: space-between; }
 }
 @media print { .closing { display: none; } }
+
+.closing-primary:hover { background: #f0ecff; color: #44308e; }
+.closing-secondary:hover { background: #ffffff14; color: #fff; }
